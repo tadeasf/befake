@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "3297:3297"
+    environment:
+      - PORT=3297
+      - HOST=0.0.0.0
+    restart: unless-stopped

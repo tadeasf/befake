@@ -1,5 +1,5 @@
 # BeFake
-## BeFake is currently broken
+
 ## Features
 
 1. See friends' posts without posting anything yourself
@@ -42,7 +42,7 @@ npm run dev
 npm run lint
 ```
 
-# Contributing
+## Contributing
 
 Thank you for considering contributing to Befake! We are grateful for your interest in helping to improve the project and make it even better.
 
@@ -60,6 +60,6 @@ Before you start contributing, please take a moment to read through the followin
 - Make sure your pull request targets the correct branch (usually master).
 - Thank you for your contributions! Every bug report, feature request, and code change helps make befake better for everyone.
 
-# Donations
+## Donations
 
 This project is free and open source. If you would like to support the development of this project, you can donate to the project [here](https://ko-fi.com/rahulvaidun)
